@@ -1,6 +1,6 @@
 {
-    "notifications": [
-        "New update available!",
-        "v.2.2.0"
-    ]
+    "notifications": {
+        "Alif": ["Welcome to Pikachu!", "New security update available!"],
+        "abir": ["Your subscription expires soon!", "Special offer for you!"]
+    }
 }
