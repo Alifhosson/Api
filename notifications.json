@@ -1,6 +1,7 @@
 {
-    "notifications": {
-        "Alif": ["Welcome to Pikachu!", "New security update available!"],
-        "abir": ["Your subscription expires soon!", "Special offer for you!"]
-    }
+  "allusersms": "🚀 Pikachu Bombing 2.2.0 নতুন আপডেট এসেছে! এখনই চেক করুন!",
+  "notifications": {
+    "Alif": ["Your account will expire soon! 😭"],
+    "abir": ["Your password has been updated! ck"]
+  }
 }
